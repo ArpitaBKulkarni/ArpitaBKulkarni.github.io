@@ -1,11 +1,10 @@
 ## This is my first blog post
 
-Cell by Cell: Unlocking biological discoveries with Single Cell Technologies
-
+**Cell by Cell: Unlocking biological discoveries with Single Cell Technologies**
 
 Over the past year, in my role as Associate Director at the HMS Single Cell Core, I have optimized and produced single cell -omics datasets for nearly a dozen emerging model organisms. As a developmental biologist, this experience has been both delightful and enlightening—providing me with valuable lessons and a unique perspective on this rapidly evolving single cell field. I foresee enormous potential for this to expand into a major area of research in the coming years. In this blog series, I aim to share these insights with a broader audience (there' a BIG picture here). In this blog, I’ll set the stage and pose key questions, and in the following one, I’ll explore potential ways (from the wet bench, bioinformatics and single cell techdev perspective) to mitigate the challenges that we, as single-cell scientists and a community, are likely to face along this journey. It's going to take a village to get this right.
 
-Here goes:
+**Here goes:**
 
 Historically, the field of biology has focused on a select group of model organisms. However, with over a million species on Earth and a growing recognition of biodiversity’s importance, it’s becoming increasingly clear that non-model species must also take center stage. These unexplored organisms will harbor unique biological secrets that can reveal new insights into evolution, ecology, and disease mechanisms. In the face of the ongoing sixth mass extinction, studying a broader array of species at single cell resolution is critical to unlocking life's complexity, driving scientific breakthroughs, and advancing biodiversity conservation. Single-cell technologies are pivotal in this endeavor, allowing researchers to dissect cellular heterogeneity and uncover complex biological systems with unparalleled precision.
 

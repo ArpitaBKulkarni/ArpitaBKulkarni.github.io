@@ -1,7 +1,5 @@
 🔬 Single-Cell Biology: Unveiling Life’s Hidden Complexity 
 
-
-
 The field of single-cell biology is rapidly transforming our understanding of life at its most fundamental level. By studying individual cells, we’re not just identifying cell types—we’re exploring the dynamic states, transitions, and interactions that shape biological systems. Single-cell technologies are providing a nuanced view of how organisms develop, adapt, and evolve. Here are some personal insights from the field that demonstrate its power and potential:
 
 1️⃣ Dynamic Cell Types: Cells are not static entities. Single-cell biology shows that cell types are often flexible and context-dependent, shifting states in response to environmental changes. This adaptability highlights that cellular identity is far more dynamic than previously believed. This dynamism is also why its hard to define "cell types" and "cell states" (at least until we understand this better)
@@ -27,3 +25,9 @@ If you’re interested in the cutting-edge developments in biology or curious ab
 Need help getting started? Come chat with me!
 
 🚀 #SingleCell #scRNAseq #Biology #Innovation #Research #CellBiology #Science
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
